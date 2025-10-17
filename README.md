@@ -1,15 +1,10 @@
-# 👋 こんにちは！ 伊波 健之介 です
+# 👋 はじめまして！
+伊波 健之介です。  
+専門学校ITカレッジ沖縄　ITスペシャリスト科　情報工学コースに在籍しています。(27卒予定)
 
-## 🚀 概要
+# プロフィール・趣味  
 
-**情熱的な開発者として、革新的なソリューションの構築に取り組んでいます。**
 
-- 🔭 現在取り組んでいること: **[現在のプロジェクト名]**
-- 🌱 学習中の技術: **[学習中の技術スタック]**
-- 👯 コラボレーション: **[協力したいプロジェクトの種類]**
-- 💬 質問歓迎: **[得意分野]**
-- 📫 連絡先: **[s24004@std.it-college.ac.jp]**
-- ⚡ 面白い事実: **[あなたについての興味深い事実]**
 
 ---
 
@@ -40,9 +35,9 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
+<!-- ---
 
-## � GitHub統計
+## GitHub統計
 
 <div align="center">
   
@@ -52,11 +47,11 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itc-s24004&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-</div>
+</div> -->
 
 ---
 
-## 🎯 注目プロジェクト
+## 🎯 これまでの作品
 
 ### 🌟 [プロジェクト名1]
 **技術スタック:** React, Node.js, MongoDB
