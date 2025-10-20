@@ -67,12 +67,15 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itc-s24004&repo=[リポジトリ名]&theme=radical)](https://github.com/itc-s24004/[リポジトリ名])
 
-### 🌟 [プロジェクト名3]
-**技術スタック:** Vue.js, Express.js, MySQL
+## 🌟 [NJS_HeadLessCMS] - 開発進行中
+**技術スタック:** Node.js, Express.js
 
-[プロジェクトの簡潔な説明。何を解決するのか、主な機能は何かを説明]
+Node.jsで動作するヘッドレスCMSサーバーです。
+### 機能
+コンテンツや複数の要素や参照を持つアイテムの管理  
+管理イベントをwebhookを使用して監視  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itc-s24004&repo=[リポジトリ名]&theme=radical)](https://github.com/itc-s24004/[リポジトリ名])
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itc-s24004&repo=NJS_HeadLessCMS&theme=radical)](https://github.com/itc-s24004/NJS_HeadLessCMS)
 
 ---
 
