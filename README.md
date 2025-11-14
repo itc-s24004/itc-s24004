@@ -35,7 +35,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
 
 ## 🎯 これまでの作品
 
@@ -46,12 +45,20 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itc-s24004&repo=[リポジトリ名]&theme=radical)](https://github.com/itc-s24004/[リポジトリ名])
 
-### 🌟 [プロジェクト名2]
-**技術スタック:** Python, Django, PostgreSQL
 
-[プロジェクトの簡潔な説明。何を解決するのか、主な機能は何かを説明]
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itc-s24004&repo=[リポジトリ名]&theme=radical)](https://github.com/itc-s24004/[リポジトリ名])
+## 🌟 [gaigo-itcollege-festival] - [実際のページ](https://gaigo-itcollege-festival.vercel.app/) - 開発進行中
+**技術スタック:** Next.js, PostgreSQL(NeonDB)
+
+[ガイカレ](https://www.it-college.ac.jp/gaikarematsuri/)の紹介および管理サイト
+### 機能
+#### トップページの編集
+#### イベントページの作成
+#### 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itc-s24004&repo=gaigo-itcollege-festival&theme=radical)](https://github.com/itc-s24004/gaigo-itcollege-festival)
+
+
 
 ## 🌟 [NJS_HeadLessCMS] - 開発進行中
 **技術スタック:** Node.js, Express.js
@@ -63,7 +70,6 @@ Node.jsで動作するヘッドレスCMSサーバーです。
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itc-s24004&repo=NJS_HeadLessCMS&theme=radical)](https://github.com/itc-s24004/NJS_HeadLessCMS)
 
----
 
 ## 📫 連絡先
 
