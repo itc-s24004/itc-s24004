@@ -6,7 +6,14 @@
 
 
 
----
+
+## 資格・検定
+- CompTIA IT Fundamentals(ITF+)
+- CompTIA IT Fundamentals(ITF+)
+- インターネット検定 ドットコムマスター ベーシック
+- サーティファイ 実践プログラミング技術者試験 Python部門 Gold (Level 4)
+- サーティファイ Javaプログラミング能力認定試験 3級
+
 
 ## 🛠️ 技術スタック
 
