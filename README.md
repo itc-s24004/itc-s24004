@@ -8,7 +8,7 @@
 
 
 ## 資格・検定
-- CompTIA IT Fundamentals(ITF+)
+- CompTIA IT Fundamentals(ITF+) 
 - SEA/J Certified Security Basic Master
 - インターネット検定 ドットコムマスター ベーシック
 - サーティファイ 実践プログラミング技術者試験 Python部門 Gold (Level 4)
@@ -41,20 +41,18 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
-## 🎯 これまでの作品
-
-### 🌟 [プロジェクト名1]
-**技術スタック:** React, Node.js, MongoDB
-
-[プロジェクトの簡潔な説明。何を解決するのか、主な機能は何かを説明]
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itc-s24004&repo=[リポジトリ名]&theme=radical)](https://github.com/itc-s24004/[リポジトリ名])
+  
+[![addon:UI Build Assistant](https://lh3.googleusercontent.com/VndMp5SYrVkUiBqkN9GcFp6DFynZhrM49nDLOVUVOtonk4yrYQYkV7n11UuGXihOJmpoU4pfPbAh0GPbXtJU46K8uA=s30)](https://chromewebstore.google.com/detail/ui-build-assistant/clbhieamajlakjobcoiheklaoldcjhjf)
+[![Talend API Tester - Free Edition](https://lh3.googleusercontent.com/MPE3_HeeIE8t_fWtyoZvtvUXwJLn1BxQZRVIQR9FRpVC7iKS3C5p6td7CAVyIAlEP_tljLwJ-pWMIxuJiHKnxT-YDA=s30)](https://chromewebstore.google.com/detail/talend-api-tester-free-ed/aejoelaoggembcahagimdiliamlcdmfm)
 
 
 
-## 🌟 [gaigo-itcollege-festival] - [実際のページ](https://gaigo-itcollege-festival.vercel.app/) - 開発進行中
+
+## これまでの作品
+
+
+
+## [gaigo-itcollege-festival] - [実際のページ](https://gaigo-itcollege-festival.vercel.app/) - 開発進行中
 **技術スタック:** Next.js, PostgreSQL(NeonDB)
 
 [ガイカレ](https://www.it-college.ac.jp/gaikarematsuri/)の紹介および管理サイト
@@ -67,7 +65,17 @@
 
 
 
-## 🌟 [NJS_HeadLessCMS] - 開発進行中
+## [NJS_Book_Manager]
+**技術スタック:** Node.js, Express.js, PostgreSQL, Prisma
+
+書籍管理システム
+### 機能
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itc-s24004&repo=NJS_Book_manager&theme=radical)](https://github.com/itc-s24004/NJS_Book_manager)
+
+
+
+## [NJS_HeadLessCMS] - 開発進行中
 **技術スタック:** Node.js, Express.js
 
 Node.jsで動作するヘッドレスCMSサーバーです。
