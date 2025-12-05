@@ -75,7 +75,7 @@
 
 
 
-## [NJS_HeadLessCMS] - 開発進行中
+<!-- ## [NJS_HeadLessCMS] - 開発進行中
 **技術スタック:** Node.js, Express.js
 
 Node.jsで動作するヘッドレスCMSサーバーです。
@@ -83,7 +83,7 @@ Node.jsで動作するヘッドレスCMSサーバーです。
 コンテンツや複数の要素や参照を持つアイテムの管理  
 管理イベントをwebhookを使用して監視  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itc-s24004&repo=NJS_HeadLessCMS&theme=radical)](https://github.com/itc-s24004/NJS_HeadLessCMS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itc-s24004&repo=NJS_HeadLessCMS&theme=radical)](https://github.com/itc-s24004/NJS_HeadLessCMS) -->
 
 
 ## 📫 連絡先
